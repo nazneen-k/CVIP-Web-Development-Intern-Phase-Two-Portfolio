@@ -1,1 +1,1 @@
-# Interactive Portfolio Page built using HTML, CSS, and JavaScript.
+# My Portfolio Page built using HTML, CSS, and JavaScript.
